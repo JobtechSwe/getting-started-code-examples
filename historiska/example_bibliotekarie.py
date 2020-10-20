@@ -14,8 +14,8 @@ for ad in ads:
     if ad['occupation']['legacy_ams_taxonomy_id'] == bibliotekarie_kod:
         ads_bibliotekarie.append(ad)
 
-print('antal annonser totalt år 2019 =>', len(ads))
-print('antal annonser med id', bibliotekarie_kod, '=>', len(ads_bibliotekarie))
+print('total nr ads for year 2019 =>', len(ads))
+print('nr ads with occupation id', bibliotekarie_kod, '=>', len(ads_bibliotekarie))
 
 filename_out = 'output.txt'
 

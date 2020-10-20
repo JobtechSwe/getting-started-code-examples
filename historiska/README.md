@@ -4,6 +4,7 @@ To run examples, download data from https://jobtechdev.se/docs/apis/historical/ 
 
 For examples which rely on access to an api ([Taxonomy](https://jobtechdev.se/en/docs/apis/taxonomy/) and/or [JobAd Enrichments](https://jobtechdev.se/en/docs/apis/enrich/)), an api key should be put in the file [config.json](config.json). This key can be retrieved from https://apirequest.jobtechdev.se.
 
+
 ### [example_bibliotekarie.py](example_bibliotekarie.py)
 **Description:** For year 2019, filter out all ads in the occupation 'Bibliotekarie' (occupation name with id 5899).
 
@@ -11,8 +12,8 @@ For examples which rely on access to an api ([Taxonomy](https://jobtechdev.se/en
 
 **Output:**
 ```
-antal annonser totalt år 2019 => 640257
-antal annonser med id 5899 => 667
+total nr ads for year 2019 => 640257
+nr ads with occupation id 5899 => 667
 ```
 
 ### [example_remote_work.py](example_remote_work.py)
