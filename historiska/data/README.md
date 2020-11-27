@@ -1,1 +1,1 @@
-Conversion dictionary between ad id to SNI can be downloaded here: https://minio.arbetsformedlingen.se/historiska-annonser/ad_2_sni.zip (only ~70% complete up to 2020)
+Conversion dictionary between ad id to SNI can be downloaded here: https://minio.arbetsformedlingen.se/historiska-annonser/id_2_sni.zip (only ~70% complete up to 2020)
